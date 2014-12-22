@@ -1,0 +1,24 @@
+{
+  "name": "My-Movies",
+  "version": "1.0.0",
+  "description": "movie collection site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpsiepert/My-Movie-Collection"
+  },
+  "keywords": [
+    "movies",
+    "collection",
+    "organize"
+  ],
+  "author": "Jennifer Siepert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpsiepert/My-Movie-Collection/issues"
+  },
+  "homepage": "https://github.com/jpsiepert/My-Movie-Collection"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Public",
+  "version": "0.0.0",
+  "description": "Video Collection",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "video",
+    "movies",
+    "collection"
+  ],
+  "authors": [
+    "Jennifer Siepert"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
